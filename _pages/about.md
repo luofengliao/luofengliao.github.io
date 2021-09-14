@@ -2,23 +2,26 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description:  <small> Department of Industrial Engineering and Operations Research, Columbia University  </small>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: luofeng.jpg
+  address: 2024 @ Columbia
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hi! My name is Luofeng Liao (廖烙锋 in Chinese) and I am a 4th year phd student in the IEOR Department of Columbia University.
+
+
+
+My research interests are machine learning methods for causal inference and econometrics, learning and inference in market design, and adversarial optimization. 
+
+
+Currently, I'm working with Prof. [Christian Kroer](http://www.columbia.edu/~ck2945/) on statistical inference theory for equilibrium in auction markets, a theory that is useful for internet advertising business.
+Prior to Columbia, I received my bachelor’s degree in computer science in Fudan University in China and a master's degree in statistics in University of Chicago. In UChicago, I used to work with Prof. [Mladen Kolar](https://mkolar.coffeejunkies.org) and Prof. [Zhaoran Wang](https://zhaoranwang.github.io). In Fudan I was advised by Prof. [Ke Wei](https://makwei.github.io).
