@@ -1,11 +1,24 @@
 
 
+
+@article{onlinedual,
+  abbr={preprint},
+  title={Nonstationary Dual Averaging and Online Fair Allocation},
+  author={ Luofeng Liao and Yuan Gao and Christian Kroer
+},
+  abstract={We consider the problem of fairly allocating items to a set of individuals, when the items are arriving online with fairness and efficiency guarantees.},
+  year={2022},
+  html={http://arxiv.org/abs/2202.11614},
+  selected={true}
+}
+
+
 @article{localadaseg,
   abbr={preprint},
   title={Local AdaGrad-Type Algorithm for Stochastic Convex-Concave Minimax Problems},
   author={ Luofeng Liao  and Li Shen  and Jia Duan  and Mladen Kolar  and Dacheng Tao
 },
-  abstract={Large scale convex-concave minimax problems arise in numerous applications, including game theory, robust training, and training of generative adversarial networks. Despite their wide applicability, solving such problems efficiently and effectively is challenging in the presence of large amounts of data using existing stochastic minimax methods. We study a class of stochastic minimax methods and develop a communication-efficient distributed stochastic extragradient algorithm, LocalAdaSEG, with an adaptive learning rate suitable for solving convex-concave minimax problem in the Parameter-Server model. LocalAdaSEG has three main features: (i) periodic communication strategy reduces the communication cost between workers and the server; (ii) an adaptive learning rate that is computed locally and allows for tuning-free implementation; and (iii) theoretically, a nearly linear speed-up with respect to the dominant variance term, arising from estimation of the stochastic gradient, is proven in both the smooth and nonsmooth convex-concave settings. LocalAdaSEG is used to solve a stochastic bilinear game, and train generative adversarial network. We compare LocalAdaSEG against several existing optimizers for minimax problems and demonstrate its efficacy through several experiments in both the homogeneous and heterogeneous settings},
+  abstract={We propose a commmunication-efficient and distributed adversarial learning algorithm with theoretical guarantees.},
   year={2021},
   html={https://arxiv.org/abs/2106.10022},
   selected={true}
@@ -18,7 +31,7 @@
   title={Instrumental Variable Value Iteration for Causal Offline Reinforcement Learning},
   author={ Luofeng Liao  and Zuyue Fu  and Zhuoran Yang  and Yixin Wang  and Mladen Kolar  and Zhaoran Wang
 },
-  abstract={In offline reinforcement learning (RL) an optimal policy is learnt solely from a priori collected observational data. However, in observational data, actions are often confounded by unobserved variables. Instrumental variables (IVs), in the context of RL, are the variables whose influence on the state variables are all mediated through the action. When a valid instrument is present, we can recover the confounded transition dynamics through observational data. We study a confounded Markov decision process where the transition dynamics admit an additive nonlinear functional form. Using IVs, we derive a conditional moment restriction (CMR) through which we can identify transition dynamics based on observational data. We propose a provably efficient IV-aided Value Iteration (IVVI) algorithm based on a primal-dual reformulation of CMR. To the best of our knowledge, this is the first provably efficient algorithm for instrument-aided offline RL.},
+  abstract={We propose an offline RL algorithm for observational data with instrumental variables.},
   year={2021},
   html={https://arxiv.org/abs/2102.09907},
   selected={true}
@@ -29,7 +42,7 @@
   abbr={NeurIPS2020},
   title={Provably efficient neural estimation of structural equation model: An adversarial approach},
   author={ Luofeng Liao  and You-Lin Chen  and Zhuoran Yang  and Bo Dai  and Zhaoran Wang  and Mladen Kolar},
-  abstract={Structural equation models (SEMs) are widely used in sciences, ranging from economics to psychology, to uncover causal relationships underlying a complex system under consideration and estimate structural parameters of interest. We study estimation in a class of generalized SEMs where the object of interest is defined as the solution to a linear operator equation. We formulate the linear operator equation as a min-max game, where both players are parameterized by neural networks (NNs), and learn the parameters of these neural networks using the stochastic gradient descent. We consider both 2-layer and multi-layer NNs with ReLU activation functions and prove global convergence in an overparametrized regime, where the number of neurons is diverging. The results are established using techniques from online learning and local linearization of NNs, and improve in several aspects the current state-of-the-art. For the first time we provide a tractable estimation procedure for SEMs based on NNs with provable convergence and without the need for sample splitting.},
+  abstract={We propose a neural-network based method for estimating conditional moment problems with convergence guarantees.},
   year={2020},
   html={https://papers.nips.cc/paper/2020/hash/65a99bb7a3115fdede20da98b08a370f-Abstract.html},
   selected={true}
