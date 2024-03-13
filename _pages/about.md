@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-Hi! My name is Luofeng Liao (廖烙锋 in Chinese) and I am a second-year phd student in the IEOR Department at Columbia.
+Hi! My name is Luofeng Liao (廖烙锋 in Chinese) and I am a third-year phd student in the IEOR Department at Columbia.
 
 
 
