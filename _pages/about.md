@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 Hi! My name is Luofeng Liao (廖烙锋 in Chinese) and I am a 4th year phd student in the IEOR Department of Columbia University.
-A bit on pronunciation: Luofeng is like 'law-fung' with a bit of a 'w' sound in 'law', and 'Liao' rhymes with 'meow', like 'Lee-ow'.
+ChatGPT suggests the phonetic spelling "Lwaw-fung Lyaow" which is good. More precisely, Luofeng is like 'law-fung' with a bit of a 'w' sound in 'law', and 'Liao' rhymes with 'meow', like 'Lee-ow'.
 
 
 
