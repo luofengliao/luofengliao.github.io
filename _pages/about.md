@@ -16,8 +16,8 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-Hi! My name is Luofeng Liao (廖烙锋 in Chinese) and I am a 4th year phd student in the IEOR Department of Columbia University.
-A bit on pronunciation: Luofeng is like 'lwaw-fung', a bit of a 'w' sound in 'law', and 'Liao' rhymes with 'meow', like 'Lee-ow'.
+Hi! My name is Luofeng Liao (廖烙锋 in Chinese). I am currently a Research Scientist in Meta working on ranking/recommendation algorithms. I completed my PhD in Operations Research at Columbia University, which I attended from 2021/09 to 2025/03.
+A bit on pronouncing my name: "Luo" (adding a 'w' sound in "law"), "Feng" (like "fung" in fung shui), "Liao" (rhymes with "meow").
 
 
 
