@@ -7,7 +7,7 @@ description:  <small> Department of Industrial Engineering and Operations Resear
 profile:
   align: right
   image: luofeng.jpg
-  address: 2024 @ Columbia
+  address: 2025 @ Guangdong, China 
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
