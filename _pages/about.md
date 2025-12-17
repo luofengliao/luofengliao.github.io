@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description:  <small> Department of Industrial Engineering and Operations Research, Columbia University  </small>
+description:  <small> Ph.D. in Operations Research  </small>
 
 profile:
   align: right
